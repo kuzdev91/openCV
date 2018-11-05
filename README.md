@@ -1,2 +1,6 @@
 # openCV
-Detecting faces and eyes from photo.
+Detecting traffic cone from photo.
+
+IDE:
+  Visual Studio 2017
+  OpenCV3
